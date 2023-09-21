@@ -4,20 +4,29 @@ import os
 from pprint import pprint
 import requests
 from flask import Flask, render_template
+from flask_caching import Cache
 from dotenv import load_dotenv
 
 load_dotenv()
 
-app = Flask(__name__)
-
-ROUTES_AND_STOPS_TO_TRACK = {
-    "UP-NW": ["JEFFERSONP", "IRVINGPK"],
-    "UP-W": ["OTC"],
-    # "BNSF": [],
+config = {
+    "CACHE_TYPE": "SimpleCache",
+    "CACHE_DEFAULT_TIMEOUT": 300,
+    "METRA_USER": os.getenv("METRA_USER"),
+    "METRA_PASS": os.getenv("METRA_PASS"),
 }
 
-METRA_USER = os.getenv("METRA_USER")
-METRA_PASS = os.getenv("METRA_PASS")
+app = Flask(__name__)
+app.config.from_mapping(config)
+cache = Cache(app)
+
+ROUTES_AND_STOPS_TO_TRACK = {
+    "UP-NW": ["JEFFERSONP"],
+    # "UP-W": ["OTC"],
+    # "BNSF": [],
+}
+ROUTE_IDS = ROUTES_AND_STOPS_TO_TRACK.keys()
+
 
 class MetraClient:
     base_headers = {'Accept': 'application/json'}
@@ -34,17 +43,55 @@ class MetraClient:
         url = self.base_url + url
         return requests.get(url, headers | self.base_headers).json()
 
-    def trip_updates(self) -> dict:
-        return self._get("/tripUpdates")
+    @cache.memoize(timeout=30)
+    def trip_updates(self, trip_ids) -> list:
+        trip_updates = []
+        for update in self._get("/tripUpdates"):
+            if update["is_deleted"]:
+                next
 
+            trip_update = update["trip_update"]
+            trip = trip_update["trip"]
+            if trip["trip_id"] in trip_ids:
+                route_id = trip["route_id"]
+                stop_time_updates = []
+                stop_ids_for_route = ROUTES_AND_STOPS_TO_TRACK.get(route_id)
+                for stop_time in trip_update["stop_time_update"]:
+                    if not stop_ids_for_route or stop_time["stop_id"] in stop_ids_for_route:
+                        stop_time_updates.append(stop_time)
+                trip_update["stop_time_update"] = stop_time_updates
+
+                if trip_update["stop_time_update"]:
+                    trip_updates.append(update)
+        
+        return trip_updates
+
+    @cache.cached(timeout=300, key_prefix="metra_trips")
     def trips(self) -> dict:
-        return self._get("/schedule/trips")
+        trips = {}
+        for trip in self._get("/schedule/trips"):
+            if not ROUTE_IDS or (trip["route_id"] in ROUTE_IDS):
+                trips[trip["trip_id"]] = trip
 
+        return trips
+
+    @cache.cached(timeout=300, key_prefix="metra_stops")
     def stops(self) -> dict:
-        return self._get("/schedule/stops")
+        stops = {}
+        for stop in self._get("/schedule/stops"):
+            stops[stop["stop_id"]] = stop
 
+        return stops
+
+    @cache.cached(timeout=300, key_prefix="metra_routes")
     def routes(self) -> dict:
-        return self._get("/schedule/routes")
+        routes = {}
+        for route in self._get("/schedule/routes"):
+            if not ROUTE_IDS or route["route_id"] in ROUTE_IDS:
+                routes[route["route_id"]] = route
+
+        return routes
+
 
 @app.template_filter()
 def to_json(obj: dict) -> str:
@@ -60,44 +107,14 @@ def to_local_time(time: datetime) -> str:
 
 @app.route("/metra")
 def metra():
-    client = MetraClient(METRA_USER, METRA_PASS)
+    client = MetraClient(app.config["METRA_USER"], app.config["METRA_PASS"])
+    stops = client.stops()
+    routes = client.routes()
+    trips = client.trips()
 
-    # TODO cache this
-    stops = {}
-    for stop in client.stops():
-        stops[stop["stop_id"]] = stop
-
-    # TODO cache this
-    routes = {}
-    for route in client.routes():
-        routes[route["route_id"]] = route
-
-    # TODO maybe cache this
-    trips = {}
-    route_ids = ROUTES_AND_STOPS_TO_TRACK.keys()
-    for trip in client.trips():
-        if not route_ids or (trip["route_id"] in route_ids):
-            # if not DIRECTION_ID or trip["direction_id"] == DIRECTION_ID:
-            trips[trip["trip_id"]] = trip
     trip_ids = trips.keys()
-
-    trip_updates = []
-    for update in client.trip_updates():
-        if update["is_deleted"]:
-            next
-
-        trip_update = update["trip_update"]
-        trip = trip_update["trip"]
-        if trip["trip_id"] in trip_ids:
-            stop_time_updates = []
-            stop_ids = ROUTES_AND_STOPS_TO_TRACK[trip["route_id"]]
-            for stop_time in trip_update["stop_time_update"]:
-                if not stop_ids or stop_time["stop_id"] in stop_ids:
-                    stop_time_updates.append(stop_time)
-            trip_update["stop_time_update"] = stop_time_updates
-
-            if trip_update["stop_time_update"]:
-                trip_updates.append(update)
+    trip_updates = client.trip_updates(trip_ids)
+    trip_updates.reverse()
 
     return render_template("metra.html",
         trip_updates=trip_updates,
