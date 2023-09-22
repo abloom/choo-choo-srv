@@ -1,6 +1,7 @@
 import datetime
 import json
 import os
+from dateutil.parser import isoparse
 from flask import Flask, render_template
 from dotenv import load_dotenv
 
@@ -26,7 +27,7 @@ def to_json(obj: dict) -> str:
 
 @app.template_filter()
 def from_iso_to_datetime(iso_date: str) -> datetime:
-    return datetime.datetime.fromisoformat(iso_date)
+    return isoparse(iso_date)
 
 @app.template_filter()
 def to_local_time(time: datetime) -> str:
