@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <style>
+            body {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 100vh;
+            }
+
+            .center {
+                width: 50%;
+                height: 50%;
+                display: flex;
+            }
+
+            .center img {
+                flex: 50%;
+                padding: 1em;
+                width: 50%;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="center">
+            <img src="{{ url_for('static', filename='metra.svg') }}" />
+            <img src="{{ url_for('static', filename='cta.svg') }}" />
+        </div>
+        <script type="text/javascript">
+            setTimeout(() => window.location.reload(), 5000);
+        </script>
+    </body>
+</html>

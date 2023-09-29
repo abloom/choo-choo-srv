@@ -33,6 +33,10 @@ def from_iso_to_datetime(iso_date: str) -> datetime:
 def to_local_time(time: datetime) -> str:
     return time.astimezone().strftime("%-I:%M %p")
 
+@app.errorhandler(500)
+def internal_server_error(e):
+    return render_template("500.html"), 500
+
 @app.route("/metra")
 def metra():
     client = MetraClient(app.config["METRA_USER"], app.config["METRA_PASS"])
