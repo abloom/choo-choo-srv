@@ -9,8 +9,7 @@
             }
             {% endfor %}
 
-            .trip-data .arrival-time::before,
-            .route .short-name::after {
+            .trip-data .arrival-time::before {
                 content: "\2013";
             }
 
@@ -28,7 +27,6 @@
             }
 
             .route-container {
-                display: flex;
                 font-size: 200%;
             }
 
@@ -39,35 +37,44 @@
     </head>
     <body>
         <div class="route-container">
-        {% for trip_update in trip_updates %}
-            {% set route = routes[trip_update["trip_update"]["trip"]["route_id"]] %}
-            {% set trip = trips[trip_update["trip_update"]["trip"]["trip_id"]] %}
-            <div class="route" data-route-id="{{ route['route_id'] }}">
-                <span class="route-{{ route['route_id'] }}">
-                    <span class="short-name">
-                        {{ route["route_short_name"] }}
-                    </span>    
-                    <span clas="direction">
-                        {{ directions[trip["direction_id"]] }}
+            <img src="{{ url_for('static', filename='metra.svg') }}" style="height: 20%; width: 50%;" />
+            {% for route_id, metra_stops in metra_stops_by_route.items() %}
+                {% set route = routes[route_id] %}
+                <div class="route" data-route-id="{{ route['route_id'] }}">
+                    <span class="route-{{ route['route_id'] }}">
+                        <span class="short-name">
+                            {{ route["route_short_name"] }}
+                        </span>    
                     </span>
-                </span>
-                <ul class="trip-data">
-                {% for stop_update in trip_update["trip_update"]["stop_time_update"] %}
-                    {% set stop = stops[stop_update["stop_id"]] %}
-                    <li>
-                        <span class="stop" data-stop-id="{{ stop['stop_id'] }}">{{ stop["stop_name"] }}</span>
-                        {% if stop_update["arrival"] %}
-                        <span class="arrival-time">{{ stop_update["arrival"]["time"]["low"]|from_iso_to_datetime|to_local_time }}</span>
-                        {% endif %}
-                    </li>
-                {% endfor %}
-                </ul>
-            </div>
-        {% endfor %}
+                    <ul class="trip-data">
+                    {% for metra_stop in metra_stops %}
+                        <li>
+                            <span class="stop">
+                                {{ metra_stop.stop["stop_name"] }}
+                            </span>
+                            <ul>
+                            {% for direction_id, times in metra_stop.times.items() %}
+                            <li>
+                                <span class="direction">
+                                    {{ directions[direction_id ]}}
+                                </span>
+                                {% for time in times %}
+                                    <span class="arrival-time">
+                                        {{ time["arrival_time"]|from_iso_to_time|to_local_time }}
+                                    </span>
+                                {% endfor %}
+                            </li>
+                            {% endfor %}
+                            </ul>
+                        </li>
+                    {% endfor %}
+                    </ul>
+                </div>
+            {% endfor %}
         </div>
 
         <script type="text/javascript">
-            const x = setTimeout(function() { location.reload(); }, 15000);
+            setTimeout(function() { location.reload(); }, 30000);
         </script>
     </body>
 </html>
