@@ -1,0 +1,2261 @@
+[
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW602_V1_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW604_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW606_V1_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW610_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_2",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW612_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW614_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW616_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW618_V4_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW620_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW622_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW624_V4_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_2",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW626_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW628_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW630_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW632_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW634_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW636_V4_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_2",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW638_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW640_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW642_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW644_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW646_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW648_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW650_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW652_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW654_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW656_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW658_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW660_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW662_V4_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW664_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW666_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW668_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW670_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW672_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW674_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW676_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW678_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1",
+    "trip_id": "UP-NW_UNW680_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW602_V1_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW604_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW606_V1_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW610_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_2",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW612_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW614_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW616_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW618_V4_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW620_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW622_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW624_V4_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_2",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW626_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW628_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW630_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW632_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW634_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW636_V4_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_2",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW638_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW640_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW642_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW644_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW646_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW648_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW650_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW652_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW654_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW656_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW658_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW660_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW662_V4_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW664_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW666_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW668_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW670_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW672_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW674_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW676_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW678_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A1A",
+    "trip_id": "UP-NW_UNW680_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2",
+    "trip_id": "UP-NW_UNW700_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2",
+    "trip_id": "UP-NW_UNW704_V6_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2",
+    "trip_id": "UP-NW_UNW708_V7_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2",
+    "trip_id": "UP-NW_UNW714_V9_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2",
+    "trip_id": "UP-NW_UNW716_V7_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2",
+    "trip_id": "UP-NW_UNW718_V8_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2",
+    "trip_id": "UP-NW_UNW722_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2",
+    "trip_id": "UP-NW_UNW724_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2",
+    "trip_id": "UP-NW_UNW726_V6_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2",
+    "trip_id": "UP-NW_UNW730_V8_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2",
+    "trip_id": "UP-NW_UNW734_V8_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2A",
+    "trip_id": "UP-NW_UNW700_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2A",
+    "trip_id": "UP-NW_UNW704_V6_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2A",
+    "trip_id": "UP-NW_UNW708_V7_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2A",
+    "trip_id": "UP-NW_UNW714_V9_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2A",
+    "trip_id": "UP-NW_UNW716_V7_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2A",
+    "trip_id": "UP-NW_UNW718_V8_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2A",
+    "trip_id": "UP-NW_UNW722_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2A",
+    "trip_id": "UP-NW_UNW724_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2A",
+    "trip_id": "UP-NW_UNW726_V6_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2A",
+    "trip_id": "UP-NW_UNW730_V8_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A2A",
+    "trip_id": "UP-NW_UNW734_V8_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A3",
+    "trip_id": "UP-NW_UNW702_V2_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A3",
+    "trip_id": "UP-NW_UNW706_V6_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A3",
+    "trip_id": "UP-NW_UNW710_V9_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A3",
+    "trip_id": "UP-NW_UNW712_V7_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A3",
+    "trip_id": "UP-NW_UNW720_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A3",
+    "trip_id": "UP-NW_UNW732_V8_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A3A",
+    "trip_id": "UP-NW_UNW702_V2_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A3A",
+    "trip_id": "UP-NW_UNW706_V6_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A3A",
+    "trip_id": "UP-NW_UNW710_V9_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A3A",
+    "trip_id": "UP-NW_UNW712_V7_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A3A",
+    "trip_id": "UP-NW_UNW720_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A3A",
+    "trip_id": "UP-NW_UNW732_V8_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A4",
+    "trip_id": "UP-NW_UNW7088_V7_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A4",
+    "trip_id": "UP-NW_UNW7166_V7_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A4",
+    "trip_id": "UP-NW_UNW7244_V3_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A4",
+    "trip_id": "UP-NW_UNW728_V8_A",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A4A",
+    "trip_id": "UP-NW_UNW7088_V7_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A4A",
+    "trip_id": "UP-NW_UNW7166_V7_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A4A",
+    "trip_id": "UP-NW_UNW7244_V3_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "A4A",
+    "trip_id": "UP-NW_UNW728_V8_AA",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW602_V1_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW604_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW606_V1_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW610_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_2",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW612_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW614_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW616_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW618_V4_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW620_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW622_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW624_V4_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_2",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW626_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW628_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW630_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW632_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW634_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW636_V4_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_2",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW638_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW640_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW642_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW644_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW646_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW648_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW650_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW652_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW654_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW656_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW658_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW660_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW662_V4_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW664_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW666_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW668_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW670_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW672_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW674_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW676_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW678_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B1",
+    "trip_id": "UP-NW_UNW680_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B2",
+    "trip_id": "UP-NW_UNW700_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B2",
+    "trip_id": "UP-NW_UNW704_V6_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B2",
+    "trip_id": "UP-NW_UNW708_V7_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B2",
+    "trip_id": "UP-NW_UNW714_V9_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B2",
+    "trip_id": "UP-NW_UNW716_V7_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B2",
+    "trip_id": "UP-NW_UNW718_V8_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B2",
+    "trip_id": "UP-NW_UNW722_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B2",
+    "trip_id": "UP-NW_UNW724_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B2",
+    "trip_id": "UP-NW_UNW726_V6_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B2",
+    "trip_id": "UP-NW_UNW730_V8_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B2",
+    "trip_id": "UP-NW_UNW734_V8_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B3",
+    "trip_id": "UP-NW_UNW702_V2_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B3",
+    "trip_id": "UP-NW_UNW706_V6_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B3",
+    "trip_id": "UP-NW_UNW710_V9_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B3",
+    "trip_id": "UP-NW_UNW712_V7_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B3",
+    "trip_id": "UP-NW_UNW720_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B3",
+    "trip_id": "UP-NW_UNW732_V8_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B4",
+    "trip_id": "UP-NW_UNW7088_V7_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B4",
+    "trip_id": "UP-NW_UNW7166_V7_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B4",
+    "trip_id": "UP-NW_UNW7244_V3_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "B4",
+    "trip_id": "UP-NW_UNW728_V8_B",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW602_V1_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW604_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW606_V1_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW610_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_2",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW612_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW614_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW616_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW618_V4_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW620_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW622_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW624_V4_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_2",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW626_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW628_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW630_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW632_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW634_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW636_V4_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_2",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW638_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW640_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW642_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW644_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW646_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW648_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW650_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW652_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW654_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW656_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW658_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW660_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW662_V4_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW664_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW666_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW668_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW670_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW672_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW674_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW676_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW678_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C1",
+    "trip_id": "UP-NW_UNW680_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C2",
+    "trip_id": "UP-NW_UNW700_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C2",
+    "trip_id": "UP-NW_UNW704_V6_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C2",
+    "trip_id": "UP-NW_UNW708_V7_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C2",
+    "trip_id": "UP-NW_UNW714_V9_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C2",
+    "trip_id": "UP-NW_UNW716_V7_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C2",
+    "trip_id": "UP-NW_UNW718_V8_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C2",
+    "trip_id": "UP-NW_UNW722_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C2",
+    "trip_id": "UP-NW_UNW724_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C2",
+    "trip_id": "UP-NW_UNW726_V6_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C2",
+    "trip_id": "UP-NW_UNW730_V8_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C2",
+    "trip_id": "UP-NW_UNW734_V8_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C3",
+    "trip_id": "UP-NW_UNW702_V2_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C3",
+    "trip_id": "UP-NW_UNW706_V6_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C3",
+    "trip_id": "UP-NW_UNW710_V9_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C3",
+    "trip_id": "UP-NW_UNW712_V7_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C3",
+    "trip_id": "UP-NW_UNW720_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C3",
+    "trip_id": "UP-NW_UNW732_V8_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C4",
+    "trip_id": "UP-NW_UNW7088_V7_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C4",
+    "trip_id": "UP-NW_UNW7166_V7_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C4",
+    "trip_id": "UP-NW_UNW7244_V3_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "C4",
+    "trip_id": "UP-NW_UNW728_V8_C",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "D3",
+    "trip_id": "UP-NW_UNW702_V2_D",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "D3",
+    "trip_id": "UP-NW_UNW706_V6_D",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "D3",
+    "trip_id": "UP-NW_UNW710_V9_D",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "D3",
+    "trip_id": "UP-NW_UNW712_V7_D",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "D3",
+    "trip_id": "UP-NW_UNW720_V3_D",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "D3",
+    "trip_id": "UP-NW_UNW732_V8_D",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "D4",
+    "trip_id": "UP-NW_UNW7088_V7_D",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "D4",
+    "trip_id": "UP-NW_UNW7166_V7_D",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "D4",
+    "trip_id": "UP-NW_UNW7244_V3_D",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "D4",
+    "trip_id": "UP-NW_UNW728_V8_D",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  },
+  {
+    "route_id": "UP-NW",
+    "service_id": "D4",
+    "trip_id": "UP-NW_UNW7902_V2_D",
+    "trip_headsign": "Chicago OTC",
+    "block_id": "",
+    "shape_id": "UP-NW_IB_1",
+    "direction_id": 1
+  }
+]

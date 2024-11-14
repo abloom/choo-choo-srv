@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>Metra Tracker</title>
+        <script src="./cash.js"></script>
+        <script type="text/javascript">
+            let USERNAME="76a3886e723cd66109aa26c6ce20d5eb",
+                PASSWORD="9486ca01a568ae076c7dc00b213da000"
+            $(function() {
+                $("#metra-data").append("<p>hello world</p>");
+                $("#tripupdates-json").on("load", function() {
+                    console.log($("#tripupdates-json").contents().text());
+                })
+                // let credentials = `${USERNAME}:${PASSWORD}`,
+                //     request = new Request("https://gtfsapi.metrarail.com/gtfs/tripUpdates", {
+                //         headers: {
+                //             "Authorization": `Basic ${credentials}`,
+                //         },
+                //         credentials: "include",
+                //         mode: "cors",
+                //     });
+            
+                // fetch(request)
+                //     .then((response) => response.json())
+                //     .then((json) => {
+                //         console.log(json);
+                //     }).catch((err) => {
+                //         console.error(err);
+                //     });
+            });
+        </script>
+    </head>
+    <body>
+        <div id="metra-data">
+        </div>
+        <iframe id="tripupdates-json" src="https://76a3886e723cd66109aa26c6ce20d5eb:9486ca01a568ae076c7dc00b213da000@gtfsapi.metrarail.com/gtfs/tripUpdates"></iframe>
+    </body>
+</html>
